@@ -1,0 +1,6 @@
+# **Regular expression based validation of strings:**
+
+**Problems:**
+1. containing 'ab' as a substring
+2. $(a+b)^* ab$
+3. $L=\{a^mb^n; m,n>=0\}$
