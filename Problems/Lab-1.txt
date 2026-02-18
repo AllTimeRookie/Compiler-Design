@@ -1,0 +1,5 @@
+# **Problems:**
+
+1. program to identify whether an identifier is valid or not.
+2. program to list total number of identifiers from a c/c++ code snippet.
+3. program to check if a comment is single-line comment or a multi-line comment.
